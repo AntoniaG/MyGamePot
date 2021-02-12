@@ -8,3 +8,5 @@ Der theoretische Teil umfasst das Erarbeiten bzw. das Erweitern der Kenntnisse j
 
 Praktischer Teil der Arbeit
 Das Ziel der Arbeit ist eine Weboberfläche in HTML, Java Script und CSS über ein Framework zu generieren. Ebenfalls wird die Oberfläche eine Backend Schnittstelle besitzen die User-Daten abspeichert. somit wird eine Server Client Struktur aufgebaut werden um über REST oder gleichwertige Technologien, die generierten Daten abspeichern zu können. Da die Anwendung von mehreren Usern gleichzeitig benutzt werden soll und diese untereinander interagieren, wird eine Triggerfunktion nötig sein. Über diese Funktion werden die Daten der einzelnen User upgedatet.
+
+Das ist eine Kopie der Arbeit an der nur ich arbeite und experimentieren möchte.
